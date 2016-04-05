@@ -3,11 +3,8 @@
 // 1. Create an OO JavaScript "cheat sheet" that includes:
 
 //     - an object literal for someone's full name
-
 //     - a constructor function for creating multiple 				people's full names
-
 //	   - create an instance of the object
-
 //     - access the different object attributes and console 		log them
 
 // 2. Create an object called `Multiplier` with two methods: `multiply` and `getCurrentValue`. `multiply` should initially return the number supplied * 1 and from then on whatever the current value is times the number supplied. `getCurrentValue` should return the last answer returned from multiply.
